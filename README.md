@@ -6,6 +6,11 @@ piskastroi1-ui - https://github.com/piskastroi1-ui
 MrStasGames228 - https://github.com/MrStasGames228
 valkiri61-cloud - https://github.com/MrStasGames228
 velo35001 - https://github.com/velo35001
+ppdpdp83-hub - https://github.com/ppdpdp83-hub
+DR4G0NC4N3LL0NI - https://github.com/DR4G0NC4N3LL0NI
+CapibaroLimonchel - https://github.com/CapibaroLimonchel
+hpwerdsf - https://github.com/hpwerdsf
+bobrbobr1337 - https://github.com/bobrbobr1337
 
 Чекать сурсы:
 <img width="1280" height="382" alt="image" src="https://github.com/user-attachments/assets/1d2672b0-636b-4951-8f4c-d86ffb168b0a" />
