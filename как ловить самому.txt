@@ -1,0 +1,6 @@
+1. Переделайте в нейросетке на свои хуки DEBIL.LUA (https://github.com/AuroraFinder/AURORA-SOURCES/blob/main/DEBIL.LUA)
+2. Подключите свой loadstring dfesdf.lua (https://github.com/AuroraFinder/AURORA-SOURCES/blob/main/dfesdf.lua)
+3. Собирайте сервера Steal a brainrot (тоже напишите через нейронку)
+4. Поставьте код на эмуляторы / впс
+кароче поищите и ставьте свою ферму, не теряйте деньги и времени на нищих долбаебов которые скамят
+<3
